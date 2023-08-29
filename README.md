@@ -6,7 +6,7 @@ Computer Engineering Student and IT Consultant
 
 * 🌍  I'm based in Bay Area
 * 🖥️  See my portfolio at [My Personal Site](http://markli.xyz)
-* ✉️  You can contact me at [githubcontact \[at\] markli.xyz](mailto:githubcontact [at] markli.xyz)
+* ✉️  You can contact me at githubcontact \[at\] markli.xyz
 * 🧠  I'm learning React JS & PyTorch
 * 🤝  I'm open to collaborating on Automotive and AI Project
 
